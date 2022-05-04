@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **btfblog**. This is the project link: https://github.com/chenxu2656/btfblog If its helpful. Please Star me
+🔭 I’m currently working on **btfblog**. This is the project link: https://github.com/chenxu2656/btfblog If its helpful. Please Star me
 <!--
 **chenxu2656/chenxu2656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
